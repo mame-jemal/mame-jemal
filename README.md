@@ -7,7 +7,7 @@ Frontend web developer
 I am a frontend web developer and looking for a job. I gradulated from woldia university by Computer Engineering stream.
 
 * 🌍  I'm based in Ethiopia Dessie
-* 🖥️  See my portfolio at [Myprofilo](http://t.me/mamilajemilu)
+* 🖥️  See my portfolio at [mame-jemal](http://t.me/mamilajemilu)
 * ✉️  You can contact me at [jemalmohammedjemil@gmail.com](mailto:jemalmohammedjemil@gmail.com)
 * 🧠  I'm learning website development
 * 🤝  I'm open to collaborating on projects
@@ -35,3 +35,5 @@ I am a frontend web developer and looking for a job. I gradulated from woldia un
 <a href="http://www.github.com/mame-jemal"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mame-jemal&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/mame-jemal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mame-jemal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
